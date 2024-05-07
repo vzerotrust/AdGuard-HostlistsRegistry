@@ -1,1 +1,2 @@
 ||vvahts-app-iu.com^
+||vvahts-app-iu.com^$document
